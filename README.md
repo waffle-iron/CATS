@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/clemsonMakerspace/CATS.png?label=ready&title=Ready)](https://waffle.io/clemsonMakerspace/CATS)
 CATS
 ====
 
